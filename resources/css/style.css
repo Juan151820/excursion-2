@@ -6,21 +6,15 @@ body {
     align-items: center;
     margin: 0;
   }
-
-  h1 {
+  /* HEADINGS */
+  .header--main {
     font-family: "Verdana", sans-serif;
     color: white;
     font-size: 50px;
     font-weight: normal;
   }  
   
-  a {
-    font-size: 16px;
-    text-align: center;
-    color: aquamarine;
-  } 
-
-  h2 {
+  .header--secondary {
     font-family: "Verdana", sans-serif;
     color: white;
     font-size: 42px;
@@ -28,11 +22,21 @@ body {
     background-color: black;
   }
 
-  .text {
+  .header--sub-header {
     font-family: "Verdana", sans-serif;
     color: grey;
     font-size: 21px;
     text-align: center;
   }
+  
+  /* LINKS */
+
+  .link--cta {
+    font-size: 16px;
+    text-align: center;
+    color: aquamarine;
+  }
+
+  
 
   
