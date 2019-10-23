@@ -36,7 +36,14 @@ body {
     text-align: center;
     color: aquamarine;
   }
+  
+  /* FOOTER */
 
+  .copy-rights {
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+  }
   
 
   
